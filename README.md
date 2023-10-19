@@ -1,1 +1,2 @@
 # Top-1000-youtubers
+The Power BI Top 1000 YouTubers Dashboard project delves into the world of online content creators. It uses SQL to identify the top performers, categorizes popular content genres, and highlights category leaders. This interactive dashboard offers valuable insights into YouTube's dynamic landscape, assisting content creators and marketers in making data-informed decisions for success in this digital realm
